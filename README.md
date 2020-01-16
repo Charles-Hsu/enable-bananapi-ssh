@@ -13,3 +13,4 @@ https://www.dexterindustries.com/howto/run-a-program-on-your-raspberry-pi-at-sta
 vi /etc/rc.local
 mkdir -p -m0755 /var/run/sshd && systemctl restart ssh.service
 
+![image](https://github.com/Charles-Hsu/enable-bananapi-ssh/blob/master/rc.local.png)
